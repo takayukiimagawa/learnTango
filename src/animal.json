@@ -1,0 +1,52 @@
+{
+  "en": "Animal",
+  "kanji": "動物",
+  "kana": "どうぶつ",
+  "items": [
+    {
+      "en": "Cow",
+      "kanji": "牛",
+      "kana": "うし"
+    },
+    {
+      "en": "Dog",
+      "kanji": "犬",
+      "kana": "いぬ"
+    },
+    {
+      "en": "Cat",
+      "kanji": "猫",
+      "kana": "ねこ"
+    },
+    {
+      "en": "Horse",
+      "kanji": "馬",
+      "kana": "うま"
+    },
+    {
+      "en": "Fish",
+      "kanji": "魚",
+      "kana": "さかな"
+    },
+    {
+      "en": "Rat",
+      "kanji": "鼠",
+      "kana": "ねずみ"
+    },
+    {
+      "en": "Fowl",
+      "kanji": "鶏",
+      "kana": "にわとり"
+    },
+    {
+      "en": "Monkey",
+      "kanji": "猿",
+      "kana": "さる"
+    },
+    {
+      "en": "Pig",
+      "kanji": "豚",
+      "kana": "ぶた"
+    }
+  ]
+}
