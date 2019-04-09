@@ -13,10 +13,17 @@ body {
 
 header {
   margin: 4vh;
+  text-align: center;
 }
 
 span {
   font-size: 5vh;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin: 12vh 0;
 }
 
 p {

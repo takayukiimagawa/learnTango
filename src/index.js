@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
 import Animals from "./animals.json";
+import Body from "./body.json";
 import "./styles.css";
 import FlashCard from "./FlashCard";
 
@@ -8,7 +9,8 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      animals: Animals
+      animals: Animals,
+      body: Body
     };
   }
 
@@ -28,6 +30,8 @@ class App extends Component {
   }*/
 
   render() {
+    const { animals, body } = this.state;
+
     return (
       <div>
         <>
@@ -35,8 +39,15 @@ class App extends Component {
             Learn Japanese Vocab with <span>Tango</span>
           </header>
           <p>Tap To Check Definition</p>
-          {this.state.animals.items.map(el => (
+
+          <h2>Animal</h2>
+          {animals.items.map(el => (
             <FlashCard key={el.name} {...el} />
+          ))}
+
+          <h2>Body</h2>
+          {body.items.map(b => (
+            <FlashCard key={b.name} {...b} />
           ))}
         </>
       </div>

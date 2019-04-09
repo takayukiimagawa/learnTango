@@ -1,0 +1,163 @@
+{
+  "en": "Body",
+  "kanji": "体",
+  "kana": "からだ",
+  "items": [
+    {
+      "en": "Eye",
+      "kanji": "目",
+      "kana": "め",
+      "image": "https://images.unsplash.com/photo-1505764922570-e85a4194a120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "en": "Ear",
+      "kanji": "耳",
+      "kana": "みみ",
+      "image": "https://images.unsplash.com/photo-1526914418921-405c5393fcaa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "en": "Mouth",
+      "kanji": "口",
+      "kana": "くち",
+      "image": "https://images.unsplash.com/photo-1549153052-247abe00d6d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "en": "Nose",
+      "kanji": "鼻",
+      "kana": "はな",
+      "image": "https://images.unsplash.com/photo-1517352778431-f8068bd39389?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "en": "Tooth",
+      "kanji": "歯",
+      "kana": "は",
+      "image": "https://images.unsplash.com/photo-1450297350677-623de575f31c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Finger",
+      "kanji": "指",
+      "kana": "ゆび",
+      "image": "https://images.unsplash.com/photo-1493851449704-07ee5725d916?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Toe",
+      "kanji": "つま先",
+      "kana": "つまさき",
+      "image": "https://images.unsplash.com/photo-1541002022535-ebb5c1cbd722?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Head",
+      "kanji": "頭",
+      "kana": "あたま",
+      "image": "https://images.unsplash.com/photo-1542892502-5af4df1067bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Buttock",
+      "kanji": "お尻",
+      "kana": "おしり",
+      "image": "https://images.unsplash.com/photo-1547227818-2d544e6ec56b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Back",
+      "kanji": "背中",
+      "kana": "せなか",
+      "image": "https://images.unsplash.com/photo-1525005712886-ca67585e2206?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Stomach",
+      "kanji": "腹",
+      "kana": "はら",
+      "image": "https://images.unsplash.com/photo-1549445069-d1125f7a129c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Breast",
+      "kanji": "胸",
+      "kana": "むね",
+      "image": "https://images.unsplash.com/photo-1500416149159-461f35b7e5da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Chest",
+      "kanji": "胸",
+      "kana": "むね",
+      "image": "https://images.unsplash.com/photo-1474583846830-43fa959fc6ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Hand",
+      "kanji": "手",
+      "kana": "て",
+      "image": "https://images.unsplash.com/photo-1503758478129-c2cb56b6b64a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Leg",
+      "kanji": "足",
+      "kana": "あし",
+      "image": "https://images.unsplash.com/photo-1526249340127-94135916ed20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Neck",
+      "kanji": "首",
+      "kana": "くび",
+      "image": "https://images.unsplash.com/photo-1440011149743-37cad176d73c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Eyebrow",
+      "kanji": "眉毛",
+      "kana": "まゆげ",
+      "image": "https://images.unsplash.com/photo-1541329612541-dcb372bf5da0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Eyelash",
+      "kanji": "まつ毛",
+      "kana": "まつげ",
+      "image": "https://images.unsplash.com/photo-1536248387525-e4730d1feda3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Lip",
+      "kanji": "唇",
+      "kana": "くちびる",
+      "image": "https://images.unsplash.com/photo-1498842812179-c81beecf902c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Jaw",
+      "kanji": "顎",
+      "kana": "あご",
+      "image": "https://images.unsplash.com/photo-1546456073-6712f79251bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Palm",
+      "kanji": "手のひら",
+      "kana": "てのひら",
+      "image": "https://images.unsplash.com/photo-1507576164121-220762647800?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Hair",
+      "kanji": "髪",
+      "kana": "かみ",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Fingernail",
+      "kanji": "爪",
+      "kana": "つめ",
+      "image": "https://images.unsplash.com/photo-1526336686748-bd7bb2f1df84?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Knee",
+      "kanji": "膝",
+      "kana": "ひざ",
+      "image": "https://images.unsplash.com/photo-1454720503269-3a35c21bebc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Elbow",
+      "kanji": "肘",
+      "kana": "ひじ",
+      "image": "https://images.unsplash.com/photo-1472673630503-c6bfba62adbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "en": "Shoulder",
+      "kanji": "肩",
+      "kana": "かた",
+      "image": "https://images.unsplash.com/photo-1496598748974-dd928177549f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
