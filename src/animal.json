@@ -6,47 +6,56 @@
     {
       "en": "Cow",
       "kanji": "牛",
-      "kana": "うし"
+      "kana": "うし",
+      "image": "https://images.unsplash.com/photo-1507103011901-e954d6ec0988?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Dog",
       "kanji": "犬",
-      "kana": "いぬ"
+      "kana": "いぬ",
+      "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Cat",
       "kanji": "猫",
-      "kana": "ねこ"
+      "kana": "ねこ",
+      "image": "https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Horse",
       "kanji": "馬",
-      "kana": "うま"
+      "kana": "うま",
+      "image": "https://images.unsplash.com/photo-1450052590821-8bf91254a353?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Fish",
       "kanji": "魚",
-      "kana": "さかな"
+      "kana": "さかな",
+      "image": "https://images.unsplash.com/photo-1517361265-3bd77c6f1689?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Rat",
       "kanji": "鼠",
-      "kana": "ねずみ"
+      "kana": "ねずみ",
+      "image": "https://images.unsplash.com/photo-1550697851-920b181d8ca8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Fowl",
       "kanji": "鶏",
-      "kana": "にわとり"
+      "kana": "にわとり",
+      "image": "https://images.unsplash.com/photo-1549573308-806b7492063e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Monkey",
       "kanji": "猿",
-      "kana": "さる"
+      "kana": "さる",
+      "image": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     },
     {
       "en": "Pig",
       "kanji": "豚",
-      "kana": "ぶた"
+      "kana": "ぶた",
+      "image": "https://images.unsplash.com/photo-1541689221361-ad95003448dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
     }
   ]
 }

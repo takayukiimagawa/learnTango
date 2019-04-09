@@ -2,9 +2,11 @@ import React, { Component } from "react";
 import { render } from "react-dom";
 import "./styles.css";
 
+//btw, i didnt use this compo
+
 class Card extends Component {
   render() {
-    const { en, kanji, kana } = this.props;
+    const { en, kanji, kana, image } = this.props;
 
     return (
       <ul>

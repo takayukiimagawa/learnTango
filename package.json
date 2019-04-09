@@ -1,5 +1,5 @@
 {
-  "name": "new",
+  "name": "learntango",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -25,4 +25,4 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-}
+

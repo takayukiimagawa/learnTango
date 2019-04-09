@@ -11,6 +11,19 @@ body {
   text-align: center;
 }
 
+header {
+  margin: 4vh;
+}
+
+span {
+  font-size: 5vh;
+}
+
+p {
+  color: #84dbdf;
+  margin: 4vh;
+}
+
 .en {
   font-size: 3vw;
   color: #84dbdf;
@@ -26,8 +39,20 @@ ul {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 3vh 4vw;
   margin: 2vw;
+  border-radius: 20px;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
 }
 
 li {
   margin: 4vh 1vw;
+}
+
+image {
+  width: 30%;
+  height: 30vh;
 }
