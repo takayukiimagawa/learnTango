@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
-import Animals from "./animal.json";
+import Animals from "./animals.json";
 import "./styles.css";
 import FlashCard from "./FlashCard";
 
@@ -8,12 +8,11 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      name: "React",
-      data: Animals
+      animals: Animals
     };
   }
 
-  componentDidMount() {
+  /*componentDidMount() {
     this.fetch();
   }
 
@@ -26,7 +25,7 @@ class App extends Component {
           data: json.results
         });
       });
-  }
+  }*/
 
   render() {
     return (
@@ -36,7 +35,7 @@ class App extends Component {
             Learn Japanese Vocab with <span>Tango</span>
           </header>
           <p>Tap To Check Definition</p>
-          {this.state.data.items.map(el => (
+          {this.state.animals.items.map(el => (
             <FlashCard key={el.name} {...el} />
           ))}
         </>
