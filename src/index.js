@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { render } from "react-dom";
 import Animals from "./animal.json";
 import "./styles.css";
-import Card from "./Card";
 import FlashCard from "./FlashCard";
 
 class App extends Component {
