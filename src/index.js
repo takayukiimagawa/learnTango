@@ -15,28 +15,30 @@ class App extends Component {
   }
 
   componentDidMount() {
-    // this.fetch();
+    this.fetch();
   }
 
   fetch() {
-    /* fetch('https://repl.it/@ImagawaTakayuki/JSON-data')
-    .then(res => res.json())
-    .then(json => this.setState({
-      data: json.results
-    })); */
+    fetch("https://repl.it/@ImagawaTakayuki/JSON-data")
+      .then(res => res.json())
+      .then(json => {
+        console.log(json.results);
+        this.setState({
+          data: json.results
+        });
+      });
   }
 
   render() {
     return (
       <div>
-        {/*<p>{this.state.data && this.state.data.items[3].en}</p>*/}
-        {/*<>{
-          this.state.data.items.map(el =>
-          <Card key={Date.now}{...el} />)
-          }</>*/}
         <>
+          <header>
+            Learn Japanese Vocab with <span>Tango</span>
+          </header>
+          <p>Tap To Check Definition</p>
           {this.state.data.items.map(el => (
-            <FlashCard key={Date.now} {...el} />
+            <FlashCard key={el.name} {...el} />
           ))}
         </>
       </div>
